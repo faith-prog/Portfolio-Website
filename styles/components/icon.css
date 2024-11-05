@@ -1,0 +1,13 @@
+.icon-utama {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-top: 30px;
+  font-size: 2rem;
+}
+
+.icon-utama a:hover {
+  color: var(--clr-light);
+  transition: 0.7s;
+  animation: ease-in-out;
+}
